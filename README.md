@@ -1,4 +1,17 @@
 # Projeto-Home-Broker
+Integrantes:
+Vinicius Gabriel Ferreira Lopes
+22.121.095-8
+
+Lucas Guglielmi Pereira
+22.121.013-1
+
+Henrique Kenji Konishi
+22.121.030-5
+
+Erico Medeiros Correia da Silva 
+22.221.051-0
+
 Projeto final da matéria Modelagem de software orientado a objetos.
 O projeto consiste em implementar o home broker a uma corretora, com isso fizemos os seguintes diagramas: 
 
